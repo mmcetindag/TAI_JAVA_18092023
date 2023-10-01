@@ -18,6 +18,10 @@ Spring Start : https://start.spring.io/
 ## Java Eğitim Serisi
 https://www.youtube.com/watch?v=zERL__bD4NI&list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W
 
+## Eğitim içi Videolar
+https://drive.google.com/file/d/1HV8cvRZB_vFc4rcxbN6xeB9saNpicoYc/view?usp=sharing
+
+
 Linkedin : https://www.linkedin.com/in/mmcetindag/
 
 E-mail : mmcetindag@gmail.com
